@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 *Hey there! I'm Disha Nayak*
 
-<!--
-**dishanayak27/DISHANAYAK27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & ML Engineer 
 
-Here are some ideas to get you started:
+I build fun stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech 
+
+```python
+skillset = {
+    'languages': ['Python', 'SQL'],
+    'ml_frameworks': ['PyTorch', 'TensorFlow', 'scikit-learn', 'Keras'],
+    'data_wizardry': ['pandas', 'numpy', 'matplotlib', 'seaborn', 'plotly'],
+    'mlops_tools': ['MLflow', 'Weights & Biases', 'Docker'],
+    'cloud_platforms': ['AWS', 'GCP', 'Azure'],
+    'databases': ['PostgreSQL', 'MongoDB']
+}
+```
+
+### 🌍 Location
+
+Currently based in **Bengaluru**  - you can usually find me wherever there's:
+- Good coffee
+- Chess Meetups 
+- Bookstores
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a8a211)
+- 📧 dishanayak027@gmail.com
+
+Response time: Usually within 24 hours
+
+---
+
+## 📈 GitHub Stats & Activity
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanayak27&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanayak27&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight)
+
+---
+
+## 📊 Profile Visitors
+
+![Visitor Count](https://count.getloli.com/get/@dishanayak27?theme=rule34)
+
+---
+
+<div align="center">
+
+### "Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke
+
+
+**⭐ If you find my work interesting, consider starring some repos!**
+
+</div>
