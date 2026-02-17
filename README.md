@@ -1,14 +1,10 @@
-# 👋 _Hey there! I'm Disha Nayak_
+# 👋 _Hi! I'm Disha_
 
 🤖 AI & ML Engineer
 
 I build fun stuff
 
 ---
-
-### 🛠️ Tech
-
-```python
 
 ### 📫 Let's Connect
 
@@ -45,4 +41,3 @@ I build fun stuff
 **⭐ If you find my work interesting, consider starring some repos!**
 
 </div>
-```
