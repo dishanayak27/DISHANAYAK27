@@ -1,14 +1,6 @@
 # 👋 _Hi! I'm Disha_
 
-🤖 AI & ML Engineer
-
-I build fun stuff
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a8a211)
+AI & ML Engineer. - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a8a211)
 
 ---
 
@@ -22,7 +14,7 @@ I build fun stuff
 
 <div align="center">
 
-## 🌌 3D Contribution Graph
+## 3D Contribution Graph
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" />
 
