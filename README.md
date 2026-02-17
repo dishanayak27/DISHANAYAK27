@@ -14,11 +14,11 @@ I build fun stuff
 
 ## 📈 GitHub Stats & Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanayak27&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dishanayak27&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanayak27&theme=tokyonight&layout=compact&langs_count=8&hide=html,css,javascript)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight) -->
 
 <div align="center">
 
