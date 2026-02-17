@@ -13,6 +13,7 @@ AI & ML Engineer. - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight) -->
 
 <div align="center">
+   ## Contributions
   <img src="./profile-3d-contrib/profile-night-view.svg" width="400" />
 </div>
 
