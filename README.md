@@ -9,30 +9,10 @@ I build fun stuff
 ### 🛠️ Tech
 
 ```python
-skillset = {
-    'languages': ['Python', 'SQL'],
-    'ml_frameworks': ['PyTorch', 'TensorFlow', 'scikit-learn', 'Keras'],
-    'data_wizardry': ['pandas', 'numpy', 'matplotlib', 'seaborn', 'plotly'],
-    'mlops_tools': ['MLflow', 'Weights & Biases', 'Docker'],
-    'cloud_platforms': ['AWS', 'GCP', 'Azure'],
-    'databases': ['PostgreSQL', 'MongoDB']
-}
-```
-
-### 🌍 Location
-
-Currently based in **Bengaluru** - you can usually find me wherever there's:
-
-- Good coffee
-- Chess Meetups
-- Bookstores
 
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a8a211)
-- 📧 dishanayak027@gmail.com
-
-Response time: Usually within 24 hours
 
 ---
 
@@ -65,3 +45,4 @@ Response time: Usually within 24 hours
 **⭐ If you find my work interesting, consider starring some repos!**
 
 </div>
+```
