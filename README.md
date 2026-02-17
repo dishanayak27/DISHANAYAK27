@@ -1,12 +1,12 @@
-# 👋 *Hey there! I'm Disha Nayak*
+# 👋 _Hey there! I'm Disha Nayak_
 
-🤖 AI & ML Engineer 
+🤖 AI & ML Engineer
 
 I build fun stuff
 
 ---
 
-### 🛠️ Tech 
+### 🛠️ Tech
 
 ```python
 skillset = {
@@ -21,9 +21,10 @@ skillset = {
 
 ### 🌍 Location
 
-Currently based in **Bengaluru**  - you can usually find me wherever there's:
+Currently based in **Bengaluru** - you can usually find me wherever there's:
+
 - Good coffee
-- Chess Meetups 
+- Chess Meetups
 - Bookstores
 
 ### 📫 Let's Connect
@@ -43,7 +44,13 @@ Response time: Usually within 24 hours
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight)
 
----
+<div align="center">
+
+## 🌌 3D Contribution Graph
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" />
+
+## </div>
 
 ## 📊 Profile Visitors
 
@@ -54,7 +61,6 @@ Response time: Usually within 24 hours
 <div align="center">
 
 ### "Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke
-
 
 **⭐ If you find my work interesting, consider starring some repos!**
 
