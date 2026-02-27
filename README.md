@@ -12,7 +12,7 @@ AI & ML Engineer. - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a
 
 <div align="center">
 <h4>Contributions</h4>
-<img src="./profile-3d-contrib/profile-night-green.svg" width="400" />
+<img src="./profile-3d-contrib/profile-south-season.svg" width="400" />
 </div>
 
 <div align="center">
