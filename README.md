@@ -26,6 +26,4 @@ AI & ML Engineer. - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a
 
 ### "Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke
 
-**⭐ If you find my work interesting, consider starring some repos!**
-
 </div>
