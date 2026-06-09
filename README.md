@@ -10,14 +10,6 @@ AI & ML Engineer. - 💼 [LinkedIn](https://www.linkedin.com/in/disha-nayak-155a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishanayak27&theme=tokyonight) -->
 
-<!-- Pie Chart for Languages -->
-<div align="center">
-
-## 🛠️ Languages I Use
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dishanayak27&theme=tokyonight" />
-
-</div>
 
 <!-- <div align="center">
 <h4>Contributions</h4>
